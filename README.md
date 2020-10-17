@@ -1,4 +1,4 @@
-# Androidstudio-vids
+# Androidstudio videos 
 
 This repo contains collection of talks (video) to understand android studio in a better way.
 
