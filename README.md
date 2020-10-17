@@ -20,6 +20,7 @@ This repo contains collection of talks (video) to understand android studio in a
 
 
 ## Improving performance of Android Studio
+
 * [Make Android Studio Work FASTER](https://www.youtube.com/watch?v=F4fwHUdgp5c)
 * [Physical Device to run FAST](https://www.youtube.com/watch?v=p2oHD-06YcM)
 * [How To Run Apps in Android Studio on Real Android Phone](https://www.youtube.com/watch?v=CnAnOXqxQsc)
