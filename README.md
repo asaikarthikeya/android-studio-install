@@ -1,6 +1,7 @@
 # Androidstudio 
 
 This repo contains collection of video and few websites explaning ways to install android studio in different operating systems.
+Also provides ways to use Android Studio in an effective way
 
 ## Installation
 
