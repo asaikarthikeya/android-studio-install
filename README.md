@@ -1,6 +1,6 @@
-# Androidstudio videos 
+# Androidstudio 
 
-This repo contains collection of talks (video) to understand android studio in a better way.
+This repo contains collection of video and few websites to understand android studio.
 
 ## Installation
 
@@ -30,5 +30,14 @@ This repo contains collection of talks (video) to understand android studio in a
 * [The Best Lightest Android Emulator For Low End PC.](https://www.youtube.com/watch?v=GIHDLbKX6Hk)
 * [How To Run Apps in Android Studio on Real Android Phone](https://www.youtube.com/watch?v=CnAnOXqxQsc)
 * [How to make Android Studio faster](https://www.youtube.com/watch?v=ytY1m1I6xi0)
+
+## Reference webpages
+
+* [Android Studio Download by GOOGLE](https://developer.android.com/studio)
+* [Install Android Studio by GOOGLE](https://developer.android.com/studio/install)
+* [How To Download And Install Android Studio On Windows 10](https://www.c-sharpcorner.com/article/how-to-download-and-install-android-studio-in-windows-10/#:~:text=To%20download%20the%20Android%20Studio,website%20in%20your%20web%20browser.&text=Click%20on%20the%20%22Download%20Android%20Studio%22%20option.&text=Double%20click%20on%20the%20downloaded,%2Dide.exe%22%20file.&text=%22Android%20Studio%20Setup%22%20will%20appear,click%20%22Next%22%20to%20proceed.)
+
+* [Install Android Studio in Ubuntu](https://medium.com/better-programming/install-android-studio-in-ubuntu-b8aed675849f)
+
 
 
