@@ -1,7 +1,9 @@
 # Androidstudio 
 
 This repo contains collection of video and few websites explaning ways to install android studio in different operating systems.
-Also provides ways to use Android Studio in an effective way
+Also provides ways to use Android Studio in an effective way.
+
+This repository is a part of [android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap).For more guidance check the main repository. 
 
 ## Installation
 
